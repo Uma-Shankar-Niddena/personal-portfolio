@@ -1,5 +1,6 @@
 import React from 'react';
-import './Contact.css';
+import "./Contact.css";
+
 import { FaInstagram, FaYoutube, FaLinkedin, FaGithub } from 'react-icons/fa';
 
 const Contact = () => {
