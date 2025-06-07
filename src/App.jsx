@@ -42,7 +42,7 @@ function App() {
       <SkillsSection/>
       <Projects/>
       <Nakosam/>
-     <ContactMe/>
+    
     </div>
   );
 }

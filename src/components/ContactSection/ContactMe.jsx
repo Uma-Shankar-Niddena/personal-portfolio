@@ -1,5 +1,5 @@
 import React from 'react';
-import "./ContactMee.css";
+import "./contact.css";
 
 import { FaInstagram, FaYoutube, FaLinkedin, FaGithub } from 'react-icons/fa';
 

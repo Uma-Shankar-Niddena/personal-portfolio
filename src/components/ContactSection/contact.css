@@ -18,6 +18,9 @@
     background: linear-gradient(to right, #ff0066, #ffcc00, #00ffe7);
    
     color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+  
   }
   
 @keyframes scrollLeft {
